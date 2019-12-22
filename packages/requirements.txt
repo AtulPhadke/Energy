@@ -1,0 +1,7 @@
+Pygame
+Requests
+Datetime
+Sqlite3
+Pprint
+PyOpenGL
+Time
